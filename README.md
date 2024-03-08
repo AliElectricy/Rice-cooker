@@ -1,4 +1,4 @@
-Rice Cooker
+![image](https://github.com/AliElectricy/Rice-cooker/assets/74547659/5937f94d-e042-4e8a-8a38-bb2d0375e980)Rice Cooker
 This is a simple Rice Cooker project for Arduino. It uses an LCD Keypad Shield to display the time and allow the user to set the cooking time.
 
 Features
@@ -9,14 +9,17 @@ Displays a countdown timer when the cooking process is started
 Turns off the cooking process when the timer reaches 0
 
 Requirements
-Arduino Uno board
-LCD Keypad Shield ![image](https://github.com/AliElectricy/Rice-cooker/assets/74547659/c2f6a0da-4cbf-45d2-bed8-33964d12c073)
-Jumper wires
-Wiring
+1.Arduino Uno board
+2.LCD Keypad Shield ![image](https://github.com/AliElectricy/Rice-cooker/assets/74547659/c2f6a0da-4cbf-45d2-bed8-33964d12c073)
+3. Relay Module ![image](https://github.com/AliElectricy/Rice-cooker/assets/74547659/1326755a-dd5d-4681-91c0-8408180c8534)
+4.Jumper wires
+5.Wiring
+
 The following pins should be used for this project:
 
 LCD: RS (8), EN (9), D4 (4), D5 (5), D6 (6), D7 (7)
 key : A0
+Relay :3
 
 
 Code
