@@ -44,6 +44,5 @@ This project is licensed under the MIT License.
 Contact
 For any questions or issues, please contact me at alipoorhoseini2001@gmail.com.
 
-I hope this helps! Let me know if you have any questions or if there's anything else I can do to help.
 
 
